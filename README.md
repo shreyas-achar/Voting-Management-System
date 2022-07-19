@@ -12,3 +12,8 @@ are wrong then that entry will be discarded.
 
 ![image](https://user-images.githubusercontent.com/62065133/179767018-e0c789a9-aa81-4bd3-8e8e-0a905f2ea9ea.png)
 
+
+
+
+
+NOTE: Initially put 0 in every party's .txt file,otherwise may take garbage values 
